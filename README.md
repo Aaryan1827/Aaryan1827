@@ -24,6 +24,6 @@ Building things. Breaking limits. Learning nonstop.
 ### 📫 Connect
 
 * Email: [aryanahirrao18@gmail.com](mailto:aryanahirrao18@gmail.com)
-* Linkedln: (www.linkedin.com/in/aaryan-ahirrao-19a562249)
+* Linkedln: www.linkedin.com/in/aaryan-ahirrao-19a562249
 
 ---
