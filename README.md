@@ -1,4 +1,4 @@
-# Aaryan 🚀
+# Aaryan Ahirrao 🚀
 
 ```txt
 Building things. Breaking limits. Learning nonstop.
@@ -21,9 +21,15 @@ Building things. Breaking limits. Learning nonstop.
 * Real-world problem solving
 * Clean & efficient code
 
+### 🚀 Featured Project
+- 🎥 Smart Attendance System (ESP32-CAM)
+  - YouTube Video Optimizer
+    
 ### 📫 Connect
 
 * Email: [aryanahirrao18@gmail.com](mailto:aryanahirrao18@gmail.com)
 * Linkedln: www.linkedin.com/in/aaryan-ahirrao-19a562249
-
+  
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 ---
